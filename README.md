@@ -1,0 +1,2 @@
+# CODECLAUSE_BASIC_TEXT_EDITOR
+Web Development Intern
